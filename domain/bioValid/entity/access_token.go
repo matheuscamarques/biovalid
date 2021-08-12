@@ -1,8 +1,8 @@
 package entity
 
 type AccessToken struct {
-	Id         int64
-	IdUserApi  int64
+	ID         int64
+	IDUserApi  int64
 	Token      string
 	Expired_at string
 }

@@ -1,7 +1,7 @@
 package entity
 
 type UserApi struct {
-	Id       int
+	ID       int
 	Username int
 	Password int
 }

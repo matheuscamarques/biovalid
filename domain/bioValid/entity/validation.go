@@ -1,8 +1,8 @@
 package entity
 
 type Validation struct {
-	Id          int
-	IdUserApi   int
-	IdBiometria int
+	ID          int
+	IDUserApi   int
+	IDBiometria int
 	Hash        string
 }

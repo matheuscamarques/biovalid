@@ -1,7 +1,7 @@
 package entity
 
 type StackFrame struct {
-	Id          int
+	ID          int
 	IdImage     int
 	IdBiometria int
 }

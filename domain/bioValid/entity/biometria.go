@@ -1,7 +1,7 @@
 package entity
 
 type Biometria struct {
-	Id  int64
+	ID  int64
 	Rg  string
 	Cpf string
 }
